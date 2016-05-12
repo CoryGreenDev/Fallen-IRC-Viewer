@@ -1,6 +1,8 @@
 # Fallen IRC Viewer
 ###View IRC Chats and connect via LaceWing.
+
 ~ Use to check users on LaceWing server or IRC
+
 ~ In updated versions, run commands and manage and create your own LaceWing / IRC Server
 
 Enjoy
